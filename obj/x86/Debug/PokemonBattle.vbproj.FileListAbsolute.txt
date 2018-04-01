@@ -1,0 +1,16 @@
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.battle.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.Battle2.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.Battle3.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.PokeChoose.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.Start.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.pokemon.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\PokemonBattle.vbproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\PokemonBattle.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.exe
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.xml
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.pdb
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\bin\Debug\SamueleAndre.exe
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\bin\Debug\SamueleAndre.pdb
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\bin\Debug\SamueleAndre.xml
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\PokemonBattle.vbprojResolveAssemblyReference.cache

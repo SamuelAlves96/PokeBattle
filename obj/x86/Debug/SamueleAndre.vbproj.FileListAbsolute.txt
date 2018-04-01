@@ -1,0 +1,35 @@
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\bin\Debug\SamueleAndre.exe
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\bin\Debug\SamueleAndre.pdb
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\bin\Debug\SamueleAndre.xml
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.combate.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.combate2.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.combate3.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.inicio.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.pokemon.resources
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.exe
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.xml
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.pdb
+C:\Users\Samuel\Desktop\Nova pasta (7)\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.exe
+C:\Users\Samuel\Desktop\Nova pasta (7)\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.xml
+C:\Users\Samuel\Desktop\Nova pasta (7)\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.pdb
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.exe
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.xml
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.pdb
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\bin\Debug\SamueleAndre.exe
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\bin\Debug\SamueleAndre.pdb
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\bin\Debug\SamueleAndre.xml
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.combate.resources
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.combate2.resources
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.combate3.resources
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.inicio.resources
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\WindowsApplication1.pokemon.resources
+F:\Ambiente de trabalho portatil\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.vbproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\SamueleAndre\SamueleAndre\obj\x86\Debug\SamueleAndre.vbproj.CoreCompileInputs.cache
